@@ -3,7 +3,7 @@ variabila_2 = 'a'
 print(variabila_1)
 print(variabila_2)
 #
-# numere intregi:
+# numere intregi (INTEGER):
 varsta = 37
 anul_nasterii = 1986
 anul_curent = 2023
@@ -28,7 +28,9 @@ v_4 = v_1 + v_2
 print(f"{v_3} = {v_4}")
 print(v_3 , "=" , v_4)
 
-# variabila de tip boolean
+# Numere reale (FLOAT)
+
+# variabila de tip boolean (BOOL)
 
 adevarat = True
 fals = False
